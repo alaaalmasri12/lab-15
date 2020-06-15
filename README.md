@@ -1,11 +1,11 @@
 
-## Project: lab-16
+## Project: lab-17
 
 ### Author: Alaa almasri
 
 ### Links and Resources
 
-- [submission PR](https://github.com/alaaalmasri12/caps/pull/1)
+- [submission PR](https://github.com/alaaalmasri12/caps/pull/2)
 
 ### Setup
 
@@ -17,14 +17,12 @@ i.e.
 - `Store_Name` - endgame
 #### How to initialize/run your application (where applicable)
 
-- e.g. `nodemon`
-
-#### How to use your library (where applicable)
-
-#### Tests
+- e.g. `node caps.js`
+- e.g. `node vendor.js`
+- e.g. `node driver.js`
 
 
 #### UML
-![lab8](assets/lab9.jpg)
+![lab8](assets/uml.png)
 
 
